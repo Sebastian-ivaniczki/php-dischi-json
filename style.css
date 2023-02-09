@@ -1,0 +1,24 @@
+header{
+    background-color: #06131F;
+    height: 89px;
+}
+
+.logo{
+    width: 125px;
+    
+}
+
+main{
+    background-color: #1D2D3C;
+    height: 88vh;
+}
+
+.col{
+    height: 50px;
+    background-color: aliceblue;
+}
+
+.card{
+    margin-right: 4rem;
+    margin-top: 4rem;
+}
