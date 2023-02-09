@@ -72,3 +72,8 @@ $discs = [
         'genre' => 'Pop'
     ],
 ];
+
+header('Content-Type: application/json');
+
+// Convert to json and return discs
+echo json_encode($discs);

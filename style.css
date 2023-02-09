@@ -10,15 +10,14 @@ header{
 
 main{
     background-color: #1D2D3C;
-    height: 88vh;
 }
 
-.col{
-    height: 50px;
-    background-color: aliceblue;
-}
 
 .card{
+    text-align: center;
+    color: #fff;
+    padding: 2rem;
+    background-color: #112030;
     margin-right: 4rem;
     margin-top: 4rem;
 }
